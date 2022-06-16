@@ -19,7 +19,7 @@ const Home: NextPage = () => {
         <h1 className={styles.title}>Welcome to Next.js!</h1>
 
         <p className={styles.description}>
-          Get started by editing lalala{" "}
+          Get started by editing{" "}
           <code className={styles.code}>pages/index.tsx</code>
         </p>
 
